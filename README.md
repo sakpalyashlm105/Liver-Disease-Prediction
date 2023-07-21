@@ -1,11 +1,11 @@
 
-#Liver Disease Prediction
+# Liver Disease Prediction
 This repository contains code and data for predicting liver disease using machine learning algorithms. The goal of this project is to develop a predictive model that can accurately classify individuals as having liver disease or not based on certain features.
 
-##Dataset
+## Dataset
 The dataset used in this project comprises various health-related attributes of individuals, such as age, gender, total bilirubin, direct bilirubin, alkaline phosphatase, and more. The dataset has been preprocessed to handle missing values and normalized for better model performance.
 
-##Model Selection and Performance
+## Model Selection and Performance
 Three different classifiers were explored for this prediction task: 
 1. Logistic Regression
 2. Support Vector Machine (SVM)
